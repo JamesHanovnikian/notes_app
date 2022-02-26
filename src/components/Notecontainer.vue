@@ -2,7 +2,7 @@
   <div class="note-container">
     <Noteselectors />
     <Noteeditor /> 
-    </div>
+  </div>
 </template>
 
 <script>
